@@ -31,7 +31,11 @@ The dashboard is designed for business users, analysts, and decision-makers to m
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](<img width="466" height="299" alt="Image" src="https://github.com/user-attachments/assets/3db33225-943a-4e72-83dd-53c8cc12d3b3" />)
+
+![image2](<img width="490" height="314" alt="Image" src="https://github.com/user-attachments/assets/5995b61f-615e-4535-b619-eb5be4d2129c" />)
+
+![image3](<img width="1055" height="566" alt="Image" src="https://github.com/user-attachments/assets/125f47b9-51fb-415b-9284-a87478991338" />)
 
 ---
 
